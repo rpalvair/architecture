@@ -1,6 +1,6 @@
 
 ### construire l'image docker
-docker build . -t spring-boot/initial:latest
+docker build . -t rpalvair/spring-boot:latest
 
 ### vérifier que l'image est bien construite
 docker images
